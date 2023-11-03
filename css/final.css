@@ -1,0 +1,39 @@
+.nbody {
+   font-family: Arial, sans-serif;
+   margin: 0;
+   padding: 0;
+   background: linear-gradient(50deg, #82614A, #B29079,#EFE7DA);
+   height: 600px;
+}
+
+.nsignup-container {
+   width: 300px;
+   margin: 20px auto;
+   border: 1px solid #ccc;
+   background-color: white;
+   text-align: center;
+   padding: 70px;
+   border-radius: 5px;
+}
+
+.nh2 {
+   color: #333;
+}
+
+.nbody input {
+   width: 100%;
+   padding: 10px;
+   margin: 10px 0;
+   border: 1px solid #ccc;
+   border-radius: 5px;
+}
+
+.nsubmit {
+   width: 108%;
+   padding: 10px;
+   background: linear-gradient(to right, #B29079, #82614A);
+   color: white;
+   border: none;
+   border-radius: 15px;
+   cursor: pointer;
+}

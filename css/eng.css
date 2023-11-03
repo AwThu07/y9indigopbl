@@ -1,0 +1,31 @@
+*{
+	font-family: serif;
+  
+}
+
+body{
+	background: linear-gradient(310deg,  #EFE7DA, #B29079, #82614A);
+  overflow-x: hidden;
+  
+}
+.anav1 {
+	background-color: #EFE7DA;
+  padding: 6px;
+} 
+
+#demo{
+	font-size: 120%;
+}
+.dropdown{
+	font-size: 140%;
+
+}
+.dropdown-menu{
+  background-color: #EFE7DA;
+}
+.row img{
+    width: 170px;
+    height: 280px;
+    align-items: center;
+}
+
